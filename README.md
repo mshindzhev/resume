@@ -22,16 +22,16 @@ Open to exciting projects and would be delighted to join your team remotely.
 
 ## WORK EXPERIENCE
 
-### QA Engineer  
-OZON | *04.2024 – present*  
+### OZON 
+*04.2024 – present*  
 - Ensuring the quality of new features—from idea to release.
 - Developing automated tests and maintaining a Python-based framework (pytest).
 - Working with CI/CD: Monitoring pipeline execution, configuring jobs with automated tests.
 - Testing releases of new application versions and microservices.
 - Providing testing effort estimates during planning
 
-### QA Engineer 
-Yandex | *02.2022 – 04.2024*  
+### Yandex 
+*02.2022 – 04.2024*  
 - Test Documentation: Creating and maintaining test artifacts (checklists, test cases, testing guides) for new features.
 - ADB (Android Debug Bridge): Collecting bug reports and device logs; managing device activities (`start`, force-stop, etc.) via command-line tools.
 - Charles Proxy for Network Testing: Manipulating HTTP traffic using rewrite, breakpoints, and map local; simulating slow connections with throttling.
