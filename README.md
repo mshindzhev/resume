@@ -1,7 +1,7 @@
 # QA ENGINEER
 
 ## SUMMARY
-QA Engineer with 3+ years of experience, specializing in manual and automated testing (Mobile, Web, API).  
+QA Engineer with 5+ years of experience, specializing in manual and automated testing (Mobile, Web, API).  
 Passionate about identifying defects early, optimizing testing processes, and collaborating with cross-functional teams to deliver robust, user-friendly applications.
 Open to exciting projects and would be delighted to join your team remotely.
 
